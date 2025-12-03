@@ -1,4 +1,4 @@
-# Работа с html-фоормами
+# Работа с html-формами
 
 ![CI](https://github.com/Valeriypredein/html-form/actions/workflows/web1.yml/badge.svg)
 
